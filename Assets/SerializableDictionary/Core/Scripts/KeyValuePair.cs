@@ -27,5 +27,4 @@ namespace SerializableDictionary.Core
     }
 
     #endregion
-    
 }

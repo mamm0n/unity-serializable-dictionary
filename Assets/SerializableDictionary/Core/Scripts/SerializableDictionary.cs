@@ -30,7 +30,7 @@ namespace SerializableDictionary.Core
         public SerializableDictionary()
         {
         }
-        
+
         public SerializableDictionary(bool isReadOnly)
         {
             IsReadOnly = isReadOnly;

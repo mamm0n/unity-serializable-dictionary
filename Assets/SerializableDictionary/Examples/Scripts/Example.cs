@@ -7,6 +7,7 @@
 // See https://creativecommons.org/licenses/by/4.0/.
 // All other rights reserved.
 
+using System;
 using UnityEngine;
 using SerializableDictionary.Core;
 using System.Collections.Generic;
@@ -29,6 +30,15 @@ namespace SerializableDictionary.Examples
         #endregion
 
         #region MONO
+
+        private void Start()
+        {
+            SerializableDictionaryExample();
+        }
+
+        #endregion
+        
+        #region METHODS
 
         private void SerializableDictionaryExample()
         {
