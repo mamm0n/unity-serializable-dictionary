@@ -1,0 +1,16 @@
+{
+    "name": "SerializableDictionary.Examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2f79d6b643f6b44b8adb9f5ede686752"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
